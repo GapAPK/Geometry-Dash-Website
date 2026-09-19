@@ -1,3 +1,2 @@
-# 🌋 Geometry-Dash-Website
-Исходник первого сайта роботопа. (Geometry Dash.)
-Роботоп пожалуйста не бань.
+# 🌋 Geometry Dash Website
+*Исходник первого сайта роботопа. (Geometry Dash.)*
